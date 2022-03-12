@@ -1,0 +1,8 @@
+streamlit
+bs4
+matplotlib==3.2.1
+seaborn
+sklearn
+altair
+pyvis
+plotly==4.14.3
